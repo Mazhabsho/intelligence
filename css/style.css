@@ -159,10 +159,14 @@ header{
     background: #020A18;
     padding:50px 20px;
     padding-top: 50px;
+   
+}
+.aplay_block{
+    padding-bottom: 80px;
 }
 .aplay{
     width: 85%;
-    margin: auto; 
+    margin: auto;
 }
 .aplay_center{
  display: flex;
